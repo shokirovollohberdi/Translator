@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "224048271821",
+    "project_id": "texyreader-ml1",
+    "storage_bucket": "texyreader-ml1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224048271821:android:cc2ab1caea8db7da3fb484",
+        "android_client_info": {
+          "package_name": "uz.authentication.changeimagetotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224048271821-pbo2m8olnkgujmg7jmdpmevilfof0e3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK6einOyVhgKYs53h2rDSasUmtSY9ovZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224048271821-pbo2m8olnkgujmg7jmdpmevilfof0e3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224048271821:android:6d687716a325febd3fb484",
+        "android_client_info": {
+          "package_name": "uz.authentication.imagetranslate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224048271821-pbo2m8olnkgujmg7jmdpmevilfof0e3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK6einOyVhgKYs53h2rDSasUmtSY9ovZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224048271821-pbo2m8olnkgujmg7jmdpmevilfof0e3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224048271821:android:20edf9bfb0693d6e3fb484",
+        "android_client_info": {
+          "package_name": "uz.authentication.texyreaderml1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224048271821-pbo2m8olnkgujmg7jmdpmevilfof0e3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK6einOyVhgKYs53h2rDSasUmtSY9ovZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224048271821-pbo2m8olnkgujmg7jmdpmevilfof0e3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
