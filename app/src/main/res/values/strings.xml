@@ -1,9 +1,10 @@
 <resources>
-    <string name="app_name">English Russian</string>
+    <string name="app_name">English Russian Translator</string>
     <string name="title">English Russian Translator</string>
     <string name="titleRussian">Англо-Русский Переводчик</string>
     <string name="Text">text</string>
     <string name="Translate">translate</string>
     <string name="TranslateRussian">переводить</string>
     <string name="TextRussian">текст</string>
+    <string name="feedback">If you have any thoughts about the program, please contact me.This is important to me</string>
 </resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuAbout"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="About" />
+
+    <item
+        android:id="@+id/menuContactme"
+        android:icon="@drawable/ic_baseline_contacts_24"
+        android:title="Contact me" />
+
+
+</menu>
